@@ -9,6 +9,7 @@
 | Isyraq Haziq Bin Mohd Ridza                 | 2225321        |
 | Muhammad Waqiuddin Aqhar Bin Mohd Yatim     | 2314937        |
 | Wan Ahmed Fauzizafry Bin Wan Khalid         | 2221141        |
+| Mohamad Nur Hakimi Bin Asmadi               | 2213091        |
 
 ---
 
