@@ -45,7 +45,7 @@ Beanie is an interactive and user-friendly Laravel-based web application designe
 ---
 
 ## ERD (Entity Relationship Diagram)
-
+![Image](https://github.com/user-attachments/assets/1ab7a943-3de9-4a87-aa69-c82c6c04d9c7)
 
 ---
 
