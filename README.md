@@ -37,6 +37,7 @@ Beanie is an interactive and user-friendly Laravel-based web application designe
 
 ### For Customers:
 
+  The system provides a simple registration and login process. Users can sign up using their name, email, and password, and once logged in, they can browse the coffee shop’s menu, which is divided into clear categories such as hot drinks, cold drinks, and snacks. Each menu item includes a name, price, description, and photo to help customers make informed choices. Customers can add items to their cart and place orders online. Before confirming, they can review their cart contents, and once the order is placed, they receive a confirmation. All their past orders are saved in their account, allowing them to view order history and track the status of current orders. Additionally, there is a contact or feedback form that allows customers to send messages to the shop. They simply need to provide their name, email, and message. This creates a direct line of communication between the customers and the admin, enabling the coffee shop to receive feedback or respond to inquiries.
 
 ### For Admin/Staff:
 
