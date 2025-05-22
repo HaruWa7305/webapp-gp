@@ -41,6 +41,13 @@ Beanie is an interactive and user-friendly Laravel-based web application designe
 
 ### For Admin/Staff:
 
+  The system includes a secure login process for staff and administrators. Once logged in, the admin panel provides access to a centralized dashboard where staff can manage the entire coffee shop ordering system. Through this dashboard, they can view, add, edit, or remove menu items. Each item is linked to a category (e.g., hot drinks, cold drinks, snacks) and includes a name, price, description, and photo. This allows staff to keep the product inventory up-to-date and accurate.
+
+Admins can also manage product categories, ensuring that the menu is organized and easy to navigate for customers. When a customer places an order, the admin panel will display the order details in real time, including item list, quantity, total amount, customer info, and order status.
+
+Staff have the ability to update order statuses (e.g., Pending, Preparing, Ready, Completed), which helps streamline operations and keep customers informed about the progress of their orders. All orders are recorded in the system and can be filtered or reviewed later through the order history for tracking or reporting purposes.
+
+Additionally, admins can view customer reviews and feedback submitted via the contact form. This enables them to monitor customer satisfaction and respond to any concerns, ensuring quality service and continuous improvement. The system ensures that all administrative functions are performed efficiently while maintaining data accuracy and security.
 
 ---
 
