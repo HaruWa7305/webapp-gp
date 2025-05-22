@@ -50,7 +50,7 @@ Beanie is an interactive and user-friendly Laravel-based web application designe
 ---
 
 ## Sequence Diagram
-
+![sequence diagram](https://github.com/user-attachments/assets/dffddb51-2692-4001-93c2-b3132f7ebc20)
 
 ---
 
