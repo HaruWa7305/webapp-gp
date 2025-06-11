@@ -69,10 +69,12 @@ Additionally, admins can view customer reviews and feedback submitted via the co
 
 ## Challenge/difficulties to develop the application
 
--Integrating multiple frontend technologies into a unified build system.
--Configuring Vite with Laravel backend for optimal development workflow.
--Ensuring responsive design across multiple device resolutions.
--Managing dependency versions to avoid conflicts and compatibility issues.
+- Error during installation of packages: Sometimes errors happened when installing npm packages due to version conflicts or missing dependencies.
+- JavaScript runtime errors: Unexpected bugs happened when frontend scripts didn’t run properly due to small coding mistakes.
+- Testing & Debugging: Finding and fixing errors took a lot of time, especially when different parts of the code affected each other.
+- Merge Conflict: When multiple team members worked on the same files, it caused conflicts while merging the code, which required careful checking and fixing.
+
+
 
 ## References
 
