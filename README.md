@@ -63,7 +63,7 @@ Additionally, admins can view customer reviews and feedback submitted via the co
 
 ## Project system captured screen and explanation
 
-User Interface
+USER INTERFACE
 
 ![Screenshot 2025-06-12 071729](https://github.com/user-attachments/assets/82ff923b-98c9-4cf6-83ce-30c97e62ee45)
 ![Screenshot 2025-06-12 071754](https://github.com/user-attachments/assets/54a445bf-55b5-46e1-9375-9fe59b1eb54a)
@@ -108,7 +108,9 @@ User Authentication
  Order Status Page
 - After logging in, users can check the status of their orders.
 
-Admin Interface
+
+
+ADMIN INTERFACE
 
 ![WhatsApp Image 2025-06-12 at 07 40 51_2e3fb021](https://github.com/user-attachments/assets/81aabd09-8d70-4093-a470-6a9deec1d786)
 
