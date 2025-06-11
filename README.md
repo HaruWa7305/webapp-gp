@@ -21,13 +21,13 @@
 
 ## Introduction
 
-Beanie is an interactive and user-friendly Laravel-based web application designed for a coffee shop business. The platform enables customers to browse menus, place orders, and track their order statuses online. The system will also streamline the backend process for shop staff to manage products, categories, and incoming orders efficiently. This project aims to digitalize the coffee shop experience while promoting ease and convenience for both customers and staff.
+Beanie is an interactive and user-friendly Laravel-based web application designed for a coffee shop business. The platform enables customers to browse menus, place orders, and track their order statuses online. The system will also streamline the backend process for shop staff to manage products  and incoming orders efficiently. This project aims to digitalize the coffee shop experience while promoting ease and convenience for both customers and staff.
 
 ## Objectives
 
 - To build a functional and responsive coffee shop ordering system using Laravel Model View Controller architecture.
 - To provide customers with a seamless online ordering experience for drinks and food.
-- To allow admin/staff to manage product inventory, categories, and order history through a dedicated dashboard.
+- To allow admin/staff to manage product inventory and order history through a dedicated dashboard.
 - To implement user authentication and authorization (Admin vs Customer roles).
 - To ensure all features are Shariah-compliant and ethical in operation.
 
@@ -43,9 +43,9 @@ Beanie is an interactive and user-friendly Laravel-based web application designe
 
   The system includes a secure login process for staff and administrators. Once logged in, the admin panel provides access to a centralized dashboard where staff can manage the entire coffee shop ordering system. Through this dashboard, they can view, add, edit, or remove menu items. Each item is linked to a category (e.g., hot drinks, cold drinks, snacks) and includes a name, price, description, and photo. This allows staff to keep the product inventory up-to-date and accurate.
 
-Admins can also manage product categories, ensuring that the menu is organized and easy to navigate for customers. When a customer places an order, the admin panel will display the order details in real time, including item list, quantity, total amount, customer info, and order status.
+Admins can also manage product , ensuring that the menu is organized and easy to navigate for customers. When a customer places an order, the admin panel will display the order details in real time, including item list, quantity, total amount, customer info, and order status.
 
-Staff have the ability to update order statuses (e.g., Pending, Preparing, Ready, Completed), which helps streamline operations and keep customers informed about the progress of their orders. All orders are recorded in the system and can be filtered or reviewed later through the order history for tracking or reporting purposes.
+Staff have the ability to update order statuses (e.g., Pending, Completed), which helps streamline operations and keep customers informed about the progress of their orders. All orders are recorded in the system.
 
 Additionally, admins can view customer reviews and feedback submitted via the contact form. This enables them to monitor customer satisfaction and respond to any concerns, ensuring quality service and continuous improvement. The system ensures that all administrative functions are performed efficiently while maintaining data accuracy and security.
 
