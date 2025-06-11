@@ -73,18 +73,40 @@ User Authentication
 - Users can register, log in, and reset passwords using their email.
 - Logged-in users can access their profile which displays their name and email.
    
-4. ![Screenshot 2025-06-12 071940](https://github.com/user-attachments/assets/e2bfa9f2-3c75-4b55-856c-f5c4c4756944)
-   
-5. ![Screenshot 2025-06-12 071951](https://github.com/user-attachments/assets/c8484bae-8043-46af-ae36-f38bd587812a)
-    
-6. ![Screenshot 2025-06-12 072000](https://github.com/user-attachments/assets/85163e76-6436-4ac4-a5bb-9736484cd83b)
-    
-7. ![Screenshot 2025-06-12 073858](https://github.com/user-attachments/assets/4c989f97-9bc2-422d-af65-872172cdc73f)
+ ![Screenshot 2025-06-12 071940](https://github.com/user-attachments/assets/e2bfa9f2-3c75-4b55-856c-f5c4c4756944)
+ 
+ Home Page
 
-8. ![Screenshot 2025-06-12 072052](https://github.com/user-attachments/assets/c35bf236-eabb-4daf-900f-bdff78110e45)
+- Welcome message and introduction to the coffee shop.
+- Simple navigation to explore the menu and other pages.
    
-10. ![Order Status](https://github.com/user-attachments/assets/e6c14a5d-3c91-4807-af5a-130f71185897)
+ ![Screenshot 2025-06-12 071951](https://github.com/user-attachments/assets/c8484bae-8043-46af-ae36-f38bd587812a)
+ 
+ About Page
 
+- Brief introduction about Beanie Coffee Shop and its offerings.
+- Display of a few featured menu items like espresso, cappuccino, and blueberry muffin.
+    
+ ![Screenshot 2025-06-12 072000](https://github.com/user-attachments/assets/85163e76-6436-4ac4-a5bb-9736484cd83b)
+
+ Contact Page
+ - Contact form for users to send inquiries or feedback directly.
+    
+ ![Screenshot 2025-06-12 073858](https://github.com/user-attachments/assets/4c989f97-9bc2-422d-af65-872172cdc73f)
+
+ Menu & Order Page
+
+- Customers can browse available drinks (Americano, Espresso, Latte, Cappuccino, Mocha).
+- Each item includes price, description, and an "Add to Cart" button.
+
+ ![Screenshot 2025-06-12 072052](https://github.com/user-attachments/assets/c35bf236-eabb-4daf-900f-bdff78110e45)
+
+ Profile page
+ - User can see their information and profile
+   
+ ![Order Status](https://github.com/user-attachments/assets/e6c14a5d-3c91-4807-af5a-130f71185897)
+ Order Status Page
+- After logging in, users can check the status of their orders.
 
 
 Admin Interface
