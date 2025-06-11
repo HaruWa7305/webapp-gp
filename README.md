@@ -1,5 +1,3 @@
-![WhatsApp Image 2025-06-12 at 07 40 51_2e3fb021](https://github.com/user-attachments/assets/087592f3-8a0b-494a-8896-124c1e681a55)![WhatsApp Image 2025-06-12 at 07 40 51_f93aa553](https://github.com/user-attachments/assets/9d4ef35c-a15b-419c-9f50-f9ce706cbdad)# Coffee Shop Web Application
-
 ## Group 6
 ## Group Members:
 
@@ -119,16 +117,16 @@ ADMIN INTERFACE
 ![WhatsApp Image 2025-06-12 at 07 40 51_330d7a72](https://github.com/user-attachments/assets/88cc095d-fdcd-4d53-9a9f-ed5da96f2b66)
 
 Dashboard
--Admin can view all orders, check status (Pending/Completed), update status, or delete orders.
+- Admin can view all orders, check status (Pending/Completed), update status, or delete orders.
 
 Manage Products
--Admin can add new products.
--Can update product quantity (increase/decrease).
--Can delete products.
+- Admin can add new products.
+- Can update product quantity (increase/decrease).
+- Can delete products.
 
 Manage Users
--Admin can view all registered users.
--Can delete users if necessary.
+- Admin can view all registered users.
+- Can delete users if necessary.
 
 Logout
 -Admin can securely log out from the panel.
