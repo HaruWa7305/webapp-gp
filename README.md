@@ -61,6 +61,19 @@ Additionally, admins can view customer reviews and feedback submitted via the co
 
 ---
 
+## Project system captured screen and explanation
+
+
+
+
+
+## Challenge/difficulties to develop the application
+
+-Integrating multiple frontend technologies into a unified build system.
+-Configuring Vite with Laravel backend for optimal development workflow.
+-Ensuring responsive design across multiple device resolutions.
+-Managing dependency versions to avoid conflicts and compatibility issues.
+
 ## References
 
 
