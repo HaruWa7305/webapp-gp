@@ -1,4 +1,4 @@
-# Coffee Shop Web Application
+![WhatsApp Image 2025-06-12 at 07 40 51_2e3fb021](https://github.com/user-attachments/assets/087592f3-8a0b-494a-8896-124c1e681a55)![WhatsApp Image 2025-06-12 at 07 40 51_f93aa553](https://github.com/user-attachments/assets/9d4ef35c-a15b-419c-9f50-f9ce706cbdad)# Coffee Shop Web Application
 
 ## Group 6
 ## Group Members:
@@ -65,8 +65,8 @@ Additionally, admins can view customer reviews and feedback submitted via the co
 
 User Interface
 
-1. ![Screenshot 2025-06-12 071729](https://github.com/user-attachments/assets/82ff923b-98c9-4cf6-83ce-30c97e62ee45)
-   ![Screenshot 2025-06-12 071754](https://github.com/user-attachments/assets/54a445bf-55b5-46e1-9375-9fe59b1eb54a)
+![Screenshot 2025-06-12 071729](https://github.com/user-attachments/assets/82ff923b-98c9-4cf6-83ce-30c97e62ee45)
+![Screenshot 2025-06-12 071754](https://github.com/user-attachments/assets/54a445bf-55b5-46e1-9375-9fe59b1eb54a)
 
 User Authentication
 
@@ -108,16 +108,28 @@ User Authentication
  Order Status Page
 - After logging in, users can check the status of their orders.
 
-
 Admin Interface
 
+![WhatsApp Image 2025-06-12 at 07 40 51_2e3fb021](https://github.com/user-attachments/assets/81aabd09-8d70-4093-a470-6a9deec1d786)
 
+![WhatsApp Image 2025-06-12 at 07 40 51_f93aa553](https://github.com/user-attachments/assets/769533f3-e04e-4e25-a3f7-5e35d1ecdb19)
 
+![WhatsApp Image 2025-06-12 at 07 40 51_330d7a72](https://github.com/user-attachments/assets/88cc095d-fdcd-4d53-9a9f-ed5da96f2b66)
 
+Dashboard
+-Admin can view all orders, check status (Pending/Completed), update status, or delete orders.
 
+Manage Products
+-Admin can add new products.
+-Can update product quantity (increase/decrease).
+-Can delete products.
 
+Manage Users
+-Admin can view all registered users.
+-Can delete users if necessary.
 
-
+Logout
+-Admin can securely log out from the panel.
 
 ## Challenge/difficulties to develop the application
 
