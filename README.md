@@ -63,11 +63,15 @@ Additionally, admins can view customer reviews and feedback submitted via the co
 
 ## Project system captured screen and explanation
 
+User Interface
+
 1. ![Screenshot 2025-06-12 071729](https://github.com/user-attachments/assets/82ff923b-98c9-4cf6-83ce-30c97e62ee45)
-   
-2. ![Screenshot 2025-06-12 071747](https://github.com/user-attachments/assets/cadbd688-2637-4090-a629-d5e15900adb6)
-   
-3. ![Screenshot 2025-06-12 071754](https://github.com/user-attachments/assets/54a445bf-55b5-46e1-9375-9fe59b1eb54a)
+   ![Screenshot 2025-06-12 071754](https://github.com/user-attachments/assets/54a445bf-55b5-46e1-9375-9fe59b1eb54a)
+
+User Authentication
+
+- Users can register, log in, and reset passwords using their email.
+- Logged-in users can access their profile which displays their name and email.
    
 4. ![Screenshot 2025-06-12 071940](https://github.com/user-attachments/assets/e2bfa9f2-3c75-4b55-856c-f5c4c4756944)
    
@@ -78,7 +82,12 @@ Additionally, admins can view customer reviews and feedback submitted via the co
 7. ![Screenshot 2025-06-12 073858](https://github.com/user-attachments/assets/4c989f97-9bc2-422d-af65-872172cdc73f)
 
 8. ![Screenshot 2025-06-12 072052](https://github.com/user-attachments/assets/c35bf236-eabb-4daf-900f-bdff78110e45)
+   
+10. ![Order Status](https://github.com/user-attachments/assets/e6c14a5d-3c91-4807-af5a-130f71185897)
 
+
+
+Admin Interface
 
 
 
