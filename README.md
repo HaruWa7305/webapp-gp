@@ -152,9 +152,3 @@ Logout
 - Testing & Debugging: Finding and fixing errors took a lot of time, especially when different parts of the code affected each other.
 - Merge Conflict: When multiple team members worked on the same files, it caused conflicts while merging the code, which required careful checking and fixing.
 - Database Connection Issues: Sometimes the app failed to connect to the database due to wrong configuration, network issues, or server downtime, which disrupted the application's functionality.
-
-
-## References
-
-
----
