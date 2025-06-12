@@ -1,0 +1,10 @@
+Assalamualaikum sir, we are the first group that present today, here's the link of full project for GROUP F
+https://github.com/HaruWa7305/beanie2-completeversion/tree/master
+
+
+Also, all these must be run in vscode terminal after downloading the project
+1. php artisan migrate
+2. php artisan db:seed
+3. php artisan db:seed --class=ProductSeeder
+
+Thankyou sir for teaching us web application.
