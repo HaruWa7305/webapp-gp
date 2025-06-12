@@ -88,11 +88,15 @@ User Authentication
 
 - Brief introduction about Beanie Coffee Shop and its offerings.
 - Display of a few featured menu items like espresso, cappuccino, and blueberry muffin.
+
+---
     
  ![Screenshot 2025-06-12 072000](https://github.com/user-attachments/assets/85163e76-6436-4ac4-a5bb-9736484cd83b)
 
  Contact Page
  - Contact form for users to send inquiries or feedback directly.
+
+---
     
  ![Screenshot 2025-06-12 073858](https://github.com/user-attachments/assets/4c989f97-9bc2-422d-af65-872172cdc73f)
 
@@ -101,16 +105,20 @@ User Authentication
 - Customers can browse available drinks (Americano, Espresso, Latte, Cappuccino, Mocha).
 - Each item includes price, description, and an "Add to Cart" button.
 
+---
+
  ![Screenshot 2025-06-12 072052](https://github.com/user-attachments/assets/c35bf236-eabb-4daf-900f-bdff78110e45)
 
  Profile page
  - User can see their information and profile
+
+---
    
  ![Order Status](https://github.com/user-attachments/assets/e6c14a5d-3c91-4807-af5a-130f71185897)
  Order Status Page
 - After logging in, users can check the status of their orders.
 
-
+---
 
 ADMIN INTERFACE
 
@@ -134,6 +142,8 @@ Manage Users
 
 Logout
 - Admin can securely log out from the panel.
+
+---
 
 ## Challenge/difficulties to develop the application
 
