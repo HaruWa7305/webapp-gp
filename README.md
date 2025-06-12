@@ -70,6 +70,8 @@ User Authentication
 
 - Users can register, log in, and reset passwords using their email.
 - Logged-in users can access their profile which displays their name and email.
+
+---
    
  ![Screenshot 2025-06-12 071940](https://github.com/user-attachments/assets/e2bfa9f2-3c75-4b55-856c-f5c4c4756944)
  
@@ -77,6 +79,8 @@ User Authentication
 
 - Welcome message and introduction to the coffee shop.
 - Simple navigation to explore the menu and other pages.
+
+---
    
  ![Screenshot 2025-06-12 071951](https://github.com/user-attachments/assets/c8484bae-8043-46af-ae36-f38bd587812a)
  
@@ -129,7 +133,7 @@ Manage Users
 - Can delete users if necessary.
 
 Logout
--Admin can securely log out from the panel.
+- Admin can securely log out from the panel.
 
 ## Challenge/difficulties to develop the application
 
@@ -137,7 +141,7 @@ Logout
 - JavaScript runtime errors: Unexpected bugs happened when frontend scripts didn’t run properly due to small coding mistakes.
 - Testing & Debugging: Finding and fixing errors took a lot of time, especially when different parts of the code affected each other.
 - Merge Conflict: When multiple team members worked on the same files, it caused conflicts while merging the code, which required careful checking and fixing.
-
+- Database Connection Issues: Sometimes the app failed to connect to the database due to wrong configuration, network issues, or server downtime, which disrupted the application's functionality.
 
 
 ## References
